@@ -14,14 +14,14 @@ export default function Hero() {
             className="logo-isotipo hero-logo block h-16 md:h-20 mx-auto mb-6"
           />
           <p className="hero-kicker mx-auto">
-            Electricidad domiciliaria y mejoras para el hogar en Córdoba Capital
+            Electricidad domiciliaria y mejoras para el hogar en Córdoba Capital y alrededores
           </p>
           <h1 className="hero-title uppercase text-white mb-6">
             Construcciones en <span className="hero-title-accent">Durlock</span> y electricidad domiciliaria
           </h1>
           
           <p className="hero-description text-lg md:text-xl mb-8">
-            En MDB Instalaciones hacemos trabajos de electricidad domiciliaria, pintura y construcción en seco en Córdoba Capital. Escribinos para consultar por tu proyecto.
+            En MDB Instalaciones hacemos trabajos de electricidad domiciliaria, pintura y construcción en seco en Córdoba Capital y alrededores. Escribinos para consultar por tu proyecto.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">

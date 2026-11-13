@@ -22,7 +22,7 @@ export const services = [
     id: "construccion",
     icon: "Hammer",
     title: "Construcción en seco y Durlock",
-    description: "Soluciones de construcción en seco en Córdoba Capital para crear o renovar espacios con sistemas Durlock, según las necesidades de tu vivienda.",
+    description: "Soluciones de construcción en seco en Córdoba Capital y alrededores para crear o renovar espacios con sistemas Durlock, según las necesidades de tu vivienda.",
     items: [
       "Separaciones",
       "Cielorrasos",
