@@ -19,11 +19,10 @@ export default function Coverage() {
               </div>
               <div>
                 <h3 className="text-2xl font-semibold text-text-primary mb-4">
-                  Córdoba Capital y alrededores
+                  Trabajos en Córdoba Capital
                 </h3>
                 <p className="text-text-secondary text-lg leading-relaxed">
-                  Trabajamos en Córdoba Capital y todas las localidades aledañas,
-                  ofreciendo servicios de calidad en cada zona de la región.
+                  Realizamos trabajos domiciliarios de electricidad, pintura y construcción en seco en Córdoba Capital. Escribinos con tu barrio y el tipo de trabajo para confirmar disponibilidad.
                 </p>
               </div>
             </div>

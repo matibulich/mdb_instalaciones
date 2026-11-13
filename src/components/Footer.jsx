@@ -25,7 +25,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-white/80 text-sm">
-              Soluciones profesionales para electricidad, pintura y construcción en seco.
+              Electricidad domiciliaria, pintura y construcción en seco en Córdoba Capital.
             </p>
           </div>
 

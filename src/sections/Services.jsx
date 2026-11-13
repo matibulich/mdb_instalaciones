@@ -15,8 +15,8 @@ export default function Services() {
     <section id="servicios" className="service-section py-20 shadow-soft">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeading
-          title="Nuestros Servicios"
-          subtitle="Ofrecemos soluciones completas para el hogar con los más altos estándares de calidad y profesionalismo."
+          title="Servicios para el hogar en Córdoba Capital"
+          subtitle="Electricidad domiciliaria, pintura y construcción en seco. Contanos qué trabajo necesitás y coordinamos una consulta."
           centered={true}
         />
         
